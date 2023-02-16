@@ -32,16 +32,12 @@ This is an example of how you may give instructions on setting up your project l
 You need to install [nodejs](https://nodejs.org/en/)
 
 ### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/DevilKo0l/gourmet-restaurant-web.git
-   ```
-2. Install npm in gourmet-restaurant-web folder
+   
+1. Install npm in restaurant-web folder
    ```
    npm install
    ```
-3. Run the project
+2. Run the project
    ```
    npm start
    ```
